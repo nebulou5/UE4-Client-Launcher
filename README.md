@@ -1,5 +1,5 @@
-# ue4-client-launcher #
-A simple batch script to quickly launch clients and listen servers.
+# UE4-Client-Launcher #
+A simple batch script to quickly launch clients and listen servers for your Unreal Engine 4 projects.
 
 ![Program Screenshot](https://raw.githubusercontent.com/FuzzySockets/UE4-Client-Launcher/master/Screenshots/screenshot.png) 
 
