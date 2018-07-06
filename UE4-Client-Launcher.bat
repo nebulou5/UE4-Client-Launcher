@@ -3,7 +3,7 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 
 ECHO #########################################################
 ECHO ## UE4-Client-Launcher                                 ##
-ECHO ## https://github.com/FuzzySockets/ue4-client-launcher ##
+ECHO ## https://github.com/FuzzySockets/UE4-Client-Launcher ##
 ECHO #########################################################
 ECHO.
 
